@@ -1,0 +1,2 @@
+colorferet dataset can be obtained online through contacting colorferet@nist.gov (see: https://www.nist.gov/itl/iad/image-group/color-feret-database)
+
